@@ -5,5 +5,5 @@
        - name: Checkout code
          uses: actions/checkout@v3
       - name: 22f3003255@ds.study.iitm.ac.in
-        run: echo "Hello, world|||!"
+        run: echo "Hello, world!"
       
